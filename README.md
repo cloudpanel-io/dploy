@@ -15,9 +15,15 @@ See the [Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/) f
 - Zero Downtime Deployment
 - Continuous Deployment
 
-## Additional resources
+## Pre-Configured Templates
 
-* [GitHub Action for Deployer](https://github.com/deployphp/action)
+* [WordPress](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+* [Laravel](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+* [Symfony](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+* [Magento 2](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+* [WooCommerce](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+* [Node.js](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+* [Python](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 
 ## License
 [MIT](https://github.com/deployphp/deployer/blob/master/LICENSE)
