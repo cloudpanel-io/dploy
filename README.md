@@ -1,7 +1,7 @@
 <h1>DPLOY - Zero Downtime Deployment</h1>
 
 <p>
-[DPLOY](https://www.cloudpanel.io/docs/v2/dploy/introduction/) is a code deployment solution that simplifies releasing new application versions, making it faster, more efficient, and more reliable.   
+[WordPress](https://www.cloudpanel.io/docs/v2/dploy/installation/) is a code deployment solution that simplifies releasing new application versions, making it faster, more efficient, and more reliable.   
 
 With DPLOY, developers can automate the deployment process, reducing the risk of errors and ensuring that applications are deployed correctly every time.
 </p>
