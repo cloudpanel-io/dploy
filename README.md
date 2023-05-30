@@ -10,9 +10,10 @@ See the [Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/) f
 
 ## Features
 
-- Automatic server **provisioning**.
-- **Zero downtime** deployments.
-- Ready to use recipes for **most frameworks**.
+- Setup done in less than **60 seconds**.
+- Solution for **PHP, Node.js**, **Static HTML Sites** and **Python**
+- Zero Downtime Deployment
+- Continuous Deployment
 
 ## Additional resources
 
