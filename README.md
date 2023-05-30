@@ -10,6 +10,7 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 
 - Setup done in less than **60 seconds**
 - Solution for **PHP, Node.js**, **Static HTML Sites** and **Python**
+- Developed for [CloudPanel](https://www.cloudpanel.io)
 - Zero Downtime Deployment
 - Continuous Deployment
 
