@@ -1,9 +1,8 @@
 <h1>DPLOY - Zero Downtime Deployment</h1>
 
-[DPLOY](https://www.cloudpanel.io/docs/v2/dploy/installation/) is a code deployment solution that simplifies releasing new application versions, making it faster, 
-more efficient, and more reliable.   
+[DPLOY](https://www.cloudpanel.io/docs/v2/dploy/installation/) streamlines the release of new application versions, resulting in quicker, more effective, and more dependable deployments. 
 
-With **DPLOY**, developers can automate the deployment process, reducing the risk of errors and ensuring that applications are deployed correctly every time.
+Through **DPLOY**, developers can automate the deployment process, minimizing the likelihood of errors and guaranteeing accurate deployment for every application.
 
 <p align="center"><br><br><a href="https://www.cloudpanel.io/docs/v2/dploy/introduction/"><img src="/public/assets/images/video.gif" alt="DPLOY" width="600"></a><br><br><br></p>
 
