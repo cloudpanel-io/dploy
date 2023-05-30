@@ -13,6 +13,10 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 - Zero Downtime Deployment
 - Continuous Deployment
 
+## Installation
+
+Find a [Installation](https://www.cloudpanel.io/docs/v2/dploy/installation/) 
+
 ## Pre-Configured Templates
 
 * [WordPress](https://www.cloudpanel.io/docs/v2/dploy/installation/)
