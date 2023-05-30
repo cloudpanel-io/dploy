@@ -1,0 +1,46 @@
+#!/usr/bin/env php8.2
+<?php
+
+use App\Kernel;
+use App\Console\Application;
+
+set_time_limit(0);
+
+if (false === defined('IS_PHAR')) {
+    define('IS_PHAR', (strlen(Phar::running()) > 0));
+}
+
+if (function_exists('ini_set')) {
+    @ini_set('display_errors', '1');
+    if ($memoryLimit = getenv('DPLOY_MEMORY_LIMIT')) {
+        @ini_set('memory_limit', $memoryLimit);
+    } else {
+        $memoryInBytes = function ($value) {
+            $unit = strtolower(substr($value, -1, 1));
+            $value = (int) $value;
+            switch($unit) {
+                case 'g':
+                    $value *= 1024;
+                case 'm':
+                    $value *= 1024;
+                case 'k':
+                    $value *= 1024;
+            }
+
+            return $value;
+        };
+        $memoryLimit = trim(ini_get('memory_limit'));
+        if ($memoryLimit != -1 && $memoryInBytes($memoryLimit) < 1024 * 1024 * 1536) {
+            @ini_set('memory_limit', '1536M');
+        }
+        unset($memoryInBytes);
+    }
+    unset($memoryLimit);
+}
+
+require_once dirname(__DIR__).'/vendor/autoload_runtime.php';
+
+return function (array $context) {
+    $kernel = new Kernel($context['APP_ENV'], (bool) $context['APP_DEBUG']);
+    return new Application($kernel);
+};
