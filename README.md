@@ -4,8 +4,6 @@
 
 <p align="center"><br><br><a href="https://www.cloudpanel.io/docs/v2/dploy/introduction/"><img src="/public/assets/images/video.gif" alt="DPLOY" width="600"></a><br><br><br></p>
 
-<a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
-
 ## Features
 
 - Setup done in less than **60 seconds**
@@ -28,4 +26,5 @@
 [Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/)
 
 ## License
-[MIT](https://github.com/deployphp/deployer/blob/master/LICENSE)
+
+<a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
