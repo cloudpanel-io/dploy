@@ -1,4 +1,4 @@
-#<h1><a href="https://www.cloudpanel.io/docs/v2/dploy/introduction/">DPLOY - Zero Downtime Deployment</a></h1>
+<h1><a href="https://www.cloudpanel.io/docs/v2/dploy/introduction/">DPLOY - Zero Downtime Deployment</a></h1>
 
 <p>The PHP deployment tool with support for popular frameworks out of the box.</p>
 
