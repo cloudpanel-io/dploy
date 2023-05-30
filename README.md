@@ -33,7 +33,7 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 
 ## Discord
 
-<a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/discord/696694788883349574?label=Discord" alt="Discord"></a>
+<a href="https://discord.cloudpanel.io/"><img src="https://img.shields.io/discord/696694788883349574?label=Discord" alt="Discord"></a>
 
 ## :sparkling_heart: Support This Project
 
