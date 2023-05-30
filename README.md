@@ -32,7 +32,7 @@
 ## :sparkling_heart: Support This Project
 
 * Please star the project
-* Write about **CloudPanel** on platforms like **Twitter**, **Facebook** or **LinkedIn**
+* Write about **DPLOY** on platforms like **Twitter**, **Facebook** or **LinkedIn**
 * Follow us on [Twitter](https://twitter.com/cloudpanel_io) and retweet our tweets
 * Write a **Blog** post about **DPLOY**
 * Give us [Feedback](https://www.cloudpanel.io/feedback/) to improve **DPLOY**
