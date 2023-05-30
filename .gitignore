@@ -1,4 +1,4 @@
-/.env.local
+/.env
 /.env.local.php
 /.env.*.local
 /bin/compiled/
