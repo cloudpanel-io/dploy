@@ -6,7 +6,7 @@
 
 <a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
 
-See [deployer.org](https://deployer.org) for more information and documentation.
+See the [Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/) for more information.
 
 ## Features
 
