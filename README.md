@@ -24,6 +24,7 @@ Follow the steps from the [Documentation](https://www.cloudpanel.io/docs/v2/dplo
 * [Symfony](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 * [Magento 2](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 * [WooCommerce](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+* [Ghost](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 * [Node.js](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 * [Python](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 
