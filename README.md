@@ -33,7 +33,7 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 
 ## Discord
 
-Join our [Discord Server](https://discord.cloudpanel.io/)
+<a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/discord/696694788883349574?label=Discord" alt="Discord"></a>
 
 ## :sparkling_heart: Support This Project
 
@@ -45,5 +45,3 @@ Join our [Discord Server](https://discord.cloudpanel.io/)
 * Report [Bugs](https://github.com/cloudpanel-io/dploy/issues) on Github
 * Join our [Discord Server](https://discord.cloudpanel.io/)
 * [Get in touch with us](https://www.cloudpanel.io/contact/) if you have other ideas
-
-<iframe src="https://discord.com/widget?id=696694788883349574&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
