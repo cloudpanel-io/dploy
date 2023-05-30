@@ -31,6 +31,10 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 
 <a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
 
+## Discord
+
+Join our [Discord Server](https://discord.cloudpanel.io/)
+
 ## :sparkling_heart: Support This Project
 
 * Please star the project
