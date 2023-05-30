@@ -27,10 +27,6 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 
 [Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/)
 
-## License
-
-<a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
-
 ## Discord
 
 <a href="https://discord.cloudpanel.io/"><img src="https://img.shields.io/discord/696694788883349574?label=Discord" alt="Discord"></a>
@@ -45,3 +41,7 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 * Report [Bugs](https://github.com/cloudpanel-io/dploy/issues) on Github
 * Join our [Discord Server](https://discord.cloudpanel.io/)
 * [Get in touch with us](https://www.cloudpanel.io/contact/) if you have other ideas
+
+## License
+
+<a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
