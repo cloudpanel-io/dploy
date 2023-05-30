@@ -6,11 +6,9 @@
 
 <a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
 
-See the [Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/) for more information.
-
 ## Features
 
-- Setup done in less than **60 seconds**.
+- Setup done in less than **60 seconds**
 - Solution for **PHP, Node.js**, **Static HTML Sites** and **Python**
 - Zero Downtime Deployment
 - Continuous Deployment
@@ -24,6 +22,10 @@ See the [Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/) f
 * [WooCommerce](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 * [Node.js](https://www.cloudpanel.io/docs/v2/dploy/installation/)
 * [Python](https://www.cloudpanel.io/docs/v2/dploy/installation/)
+
+## Documentation
+
+[Documentation](https://www.cloudpanel.io/docs/v2/dploy/introduction/)
 
 ## License
 [MIT](https://github.com/deployphp/deployer/blob/master/LICENSE)
