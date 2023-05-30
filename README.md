@@ -15,7 +15,7 @@ Through **DPLOY**, developers can automate the deployment process, minimizing th
 
 ## Installation
 
-Follow the step from the [Documentation](https://www.cloudpanel.io/docs/v2/dploy/installation/).
+Follow the steps from the [Documentation](https://www.cloudpanel.io/docs/v2/dploy/installation/).
 
 ## Pre-Configured Templates
 
