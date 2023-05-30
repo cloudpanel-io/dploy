@@ -34,8 +34,8 @@
 * Please star the project
 * Write about **CloudPanel** on platforms like **Twitter**, **Facebook** or **LinkedIn**
 * Follow us on [Twitter](https://twitter.com/cloudpanel_io) and retweet our tweets
-* Write a **Blog** post about **CloudPanel**
-* Give us [Feedback](https://www.cloudpanel.io/feedback/) to improve **CloudPanel**
+* Write a **Blog** post about **DPLOY**
+* Give us [Feedback](https://www.cloudpanel.io/feedback/) to improve **DPLOY**
 * Report [Bugs](https://github.com/cloudpanel-io/dploy/issues) on Github
 * Join our [Discord Server](https://discord.cloudpanel.io/)
 * [Get in touch with us](https://www.cloudpanel.io/contact/) if you have other ideas
