@@ -45,3 +45,5 @@ Join our [Discord Server](https://discord.cloudpanel.io/)
 * Report [Bugs](https://github.com/cloudpanel-io/dploy/issues) on Github
 * Join our [Discord Server](https://discord.cloudpanel.io/)
 * [Get in touch with us](https://www.cloudpanel.io/contact/) if you have other ideas
+
+<iframe src="https://discord.com/widget?id=696694788883349574&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
