@@ -1,4 +1,4 @@
-<h1>DPLOY - Zero Downtime Deployment</h1>
+<h1>DPLOY - Zero Downtime Deployment for CloudPanel</h1>
 
 [DPLOY](https://www.cloudpanel.io/docs/v2/dploy/installation/) streamlines the release of new application versions, resulting in quicker, more effective, and more dependable deployments. 
 
