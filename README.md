@@ -1,8 +1,6 @@
-
-<h1><a href="https://deployer.org"><img src="https://medv.io/assets/deployer/logo.png" alt="Deployer Logo" height="30"></a> Deployer</h1>
 <p>The PHP deployment tool with support for popular frameworks out of the box.</p>
 
-<p align="center"><br><br><a href="https://deployer.org"><img src="https://medv.io/assets/deployer/deployer.gif" alt="Deployer Screenshot" width="530"></a><br><br><br></p>
+<p align="center"><br><br><a href="https://www.cloudpanel.io/docs/v2/dploy/introduction/"><img src="/public/assets/images/video.gif" alt="DPLOY" width="600"></a><br><br><br></p>
 
 <a href="https://github.com/cloudpanel-io/dploy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"></a>
 
